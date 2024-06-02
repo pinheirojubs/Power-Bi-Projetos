@@ -1,5 +1,5 @@
 
-Neste projeto foi realizada a criação de um dashboard corporativo integrando ao banco de dados e realizando o processo de ETL.
+Neste projeto foi realizada a criação de um dashboard corporativo integrando ao banco de dados e realizando o processo de ELT.
 No processo foi realizado as seguintes etapas:
 
 1.	Verificação dos cabeçalhos e tipos de dados.
