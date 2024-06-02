@@ -1,1 +1,22 @@
 
+Neste projeto foi realizada a criação de um dashboard corporativo integrando ao banco de dados e realizando o processo de ETL.
+No processo foi realizado as seguintes etapas:
+
+1.	Verificação dos cabeçalhos e tipos de dados.
+2.	Modificação dos valores monetários para o tipo double.
+3.	Verificação da existência de nulos e preenchimento das lacunas.
+4.	Verificação do número de horas dos projetos.
+5.	Separação das colunas complexas (dividir o endereço em número, estado e endereço) 
+6.	Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados 
+aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção
+7.	Eliminação das colunas desnecessárias. 
+9.	Mescla das colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores.
+10.	Mescla dos nomes de departamentos e localização.Fazendo com que cada combinação departamento-local seja único. 
+
+Neste projeto foi utilizado o mesclar consultas por ser uma  combinação entre linhas ao invés de colunas. 
+É uma maneira mais complexa porém mais sucinta.Podemos pegar os resultados de duas ou mais consultas, que podem cada uma delas estar em uma tabela diferente,
+e transformar em uma só consulta.
+O acrescentar consultas apesar de mais simples, ele reúne mais consultas, e utiliza todos os resultados.
+Dessa maneira, podemos ter uma mescla de consultas sem o excesso de dados desnecessários.
+
+
