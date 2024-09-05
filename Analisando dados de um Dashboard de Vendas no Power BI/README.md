@@ -1,22 +1,16 @@
 # Analisando Dados de um Dashboard de Vendas no Power BI
 
-[](https://github.com/pinheirojubs/Power-Bi-Projetos/tree/main/Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure#criando-um-dashboard-corporativo-com-integra%C3%A7%C3%A3o-com-mysql-e-azure)
-
 Neste projeto foi realizada a criação de um dashboard de vendas, com a replicação de duas páginas criadas durante o curso com a sample disponibilizada . Além de criar a terceira página com os gráficos referentes a:
 
 1.  Soma de Sales e unidades vendidas por país;
 2.  Soma de lucro (profit) por país;
 3.  Lucro por segmento.
 
-
 ## Conecte-se Comigo
 
-[](https://github.com/pinheirojubs/Power-Bi-Projetos/tree/main/Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure#conecte-se-comigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianaguilhermepinheiro/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pinheirojubs)
 
-[![LinkedIn](https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/juliana-guilherme-pinheiro-852593161/)  [![GitHub](https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/pinheirojubs)
+## Minhas Habilidades 
 
-## Minhas Habilidades
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) 
 
-[](https://github.com/pinheirojubs/Power-Bi-Projetos/tree/main/Dashboard%20corporativo%20com%20integra%C3%A7%C3%A3o%20com%20MySQL%20e%20Azure#minhas-habilidades)
-
-[![Python](https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)](https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)  [![Power BI](https://camo.githubusercontent.com/80d625ff44a5faf538d96f339f0566d2efe0771625136efe481b776478905062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/80d625ff44a5faf538d96f339f0566d2efe0771625136efe481b776478905062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)  [![Git](https://camo.githubusercontent.com/7b1b0bcf013f27d9700d574b84824ce2238930c33ae34767df76c5929c306f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/7b1b0bcf013f27d9700d574b84824ce2238930c33ae34767df76c5929c306f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)  [![Figma](https://camo.githubusercontent.com/1f1dc3a74857c732fa528d358206f9c86518563223858582da9949bbae3efc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3639363936393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d6669676d61)](https://camo.githubusercontent.com/1f1dc3a74857c732fa528d358206f9c86518563223858582da9949bbae3efc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3639363936393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d6669676d61)
