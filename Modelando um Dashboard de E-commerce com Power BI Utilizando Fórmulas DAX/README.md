@@ -32,6 +32,16 @@ A tabela D_Data foi criada utilizando as seguinte funções DAX, conforme foi in
  - WEEKNUM;
  - YEAR.
 
+Após esse processo, foi estabelecido os relacionamentos entre a tabela Fato e as tabelas Dimensão da seguinte forma:
+
+ - F_Vendas com D_Date por meio do campo Date;
+ - F_Vendas com D_Detalhes por meio do campo SK_ID;
+ - F_Vendas com D_Produtos_Detalhes por meio do campo ID_produto e Índice;
+ - F_Vendas com D_Produtos por meio do campo Product;
+ - F_Vendas com D_Descontos por meio do campo ID_produto.
+
+
+
 
 ![image](https://github.com/user-attachments/assets/80c0811f-e0b8-4e1f-9c56-942c806e1a75)
 
