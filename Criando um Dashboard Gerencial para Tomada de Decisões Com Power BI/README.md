@@ -9,12 +9,11 @@ Neste projeto foi realizada a modificação do relatório criativo com foco na e
 
 3. Uso de indicadores e botões para alternar entre gráficos relacionados ao mesmo tema, mas com diferentes perspectivas sobre o assunto;
 
-   ![image](https://github.com/user-attachments/assets/5fd59f85-7d66-4d72-865e-9d96340dca36)
-   ![image](https://github.com/user-attachments/assets/42772b3c-c927-4050-8b34-50721a92a530)
+     ![DashboardGerencial2024-09-2118-23-41-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa90ef10-14fb-4017-b390-fd7e892a71a4)
 
 4. Inserção de botões de navegabilidade, dando acesso às outras páginas do relatório;
 
-  ![image](https://github.com/user-attachments/assets/43227b8a-c8ec-4d00-bba7-3cd719d0e1f5)
+   ![image](https://github.com/user-attachments/assets/43227b8a-c8ec-4d00-bba7-3cd719d0e1f5)
 
 5. Modificação da segunda página do relatório conforme explicado nas orientações por vídeo do desafio;
 
