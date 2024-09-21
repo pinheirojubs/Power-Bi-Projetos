@@ -13,7 +13,8 @@ Neste projeto foi realizada a modificação do relatório criativo com foco na e
    ![image](https://github.com/user-attachments/assets/42772b3c-c927-4050-8b34-50721a92a530)
 
 4. Inserção de botões de navegabilidade, dando acesso às outras páginas do relatório;
-   ![image](https://github.com/user-attachments/assets/d2e97b9a-da9d-4508-bee5-52797e3aa4c8)
+
+  ![image](https://github.com/user-attachments/assets/43227b8a-c8ec-4d00-bba7-3cd719d0e1f5)
 
 5. Modificação da segunda página do relatório conforme explicado nas orientações por vídeo do desafio;
 
