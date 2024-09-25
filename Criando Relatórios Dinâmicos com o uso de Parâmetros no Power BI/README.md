@@ -8,7 +8,7 @@ Neste projeto foi utilizado o relatório do desafio anterior para a criação de
  
  3.	Seguir a mesma estilização do relatório;
  
- 4.Criar uma história para apresentar essa visão sobre os dados.
+ 4. Criar uma história para apresentar essa visão sobre os dados.
 
 ## Conecte-se Comigo
 
