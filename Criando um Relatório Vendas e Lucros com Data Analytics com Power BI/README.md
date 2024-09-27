@@ -1,1 +1,31 @@
+# Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
 
+Neste projeto foi utilizado o relatório do desafio "relatório criativo" para reconsiderar a disposição dos visuais com base em como o cliente irá utilizar o conteúdo. Além da alterção na diposição dos visuais, foi adicionada uma nova página ao relatório com novas informações para compor as outras páginas. As diretrizes consideradas para realizar as modificações foram:
+
+ 1. Alteração na disposição dos visuais com ênfase na visão do cliente;
+ 
+ 2. Utilização de duas páginas para realocar os visuais;
+ 
+ 3.	Criação das medidas necessárias.
+ 
+ Para compor a nova página do relatório, foram inseridos os seguintes gráficos:
+ 
+ 1. Gráfico de barras sobre TOP3 Produtos mais vendidos;
+   
+ 2. Gráfico de barras sobre Principais países em termos de vendas e/ou profit;
+   
+ 3. Gráfico de dispersão sobre Unidades vendidas e Vendas por mês;
+   
+ 4. Visuais de agrupamentos de dados;
+   
+ 5. Visuais de compartimentação dos dados.
+   
+## Conecte-se Comigo
+
+[![LinkedIn](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/julianaguilhermepinheiro/)  [![GitHub](https://camo.githubusercontent.com/17a3cfebe6cf2dcf7b339b7b008adb9a55ddc15aec622a27a2a66b207e1e357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/pinheirojubs)
+
+## Minhas Habilidades
+
+[](https://github.com/pinheirojubs/Power-Bi-Projetos/tree/main/Dashboard%20de%20Vendas%20com%20Power%20BI%20utilizando%20Star%20Schema#minhas-habilidades)
+
+[![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)  [![Power BI](https://camo.githubusercontent.com/7dd9281054f25ab69ec6b288ff71fd0d7eb42ed7d102a6453477b57bcc32a7cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/7dd9281054f25ab69ec6b288ff71fd0d7eb42ed7d102a6453477b57bcc32a7cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)  [![Git](https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)  [![Figma](https://camo.githubusercontent.com/4605bf06dfa0a3e76faa53d4437fc8ef8d9eb3cc231e11339e4840831f2d7b0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3639363936393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d6669676d61)](https://camo.githubusercontent.com/4605bf06dfa0a3e76faa53d4437fc8ef8d9eb3cc231e11339e4840831f2d7b0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3639363936393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d6669676d61)
