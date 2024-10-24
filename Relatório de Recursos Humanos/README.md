@@ -4,7 +4,7 @@ Neste projeto foi realizada a criação de um relatório na área de People Anal
 
      1. Análise de Perfil dos Colaboradores;
      2. Faixa Salarial;
-     3. turnover; 
+     3. Turnover; 
      4. Admissões ao longo do tempo por Área;
      5. Faixa Etária;
      6. Nível de Senioridade dos Times.
