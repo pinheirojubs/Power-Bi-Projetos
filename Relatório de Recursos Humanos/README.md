@@ -1,8 +1,15 @@
 # Relatório de People Analytics 
 
-Neste projeto foi realizada a criação de um relatório na área de People Analytics, com o objetivo de analisar os seguintes indicadores: análise de perfil de colaboradores, faixa salarial, turnover, admissões ao longo do tempo por área, faixa etária, nível de senioridade dos times.
+Neste projeto foi realizada a criação de um relatório na área de People Analytics, com o objetivo de analisar os seguintes indicadores: 
 
-![Mockup]()
+     1. Análise de Perfil dos Colaboradores;
+     2. Faixa Salarial;
+     3. turnover; 
+     4. Admissões ao longo do tempo por Área;
+     5. Faixa Etária;
+     6. Nível de Senioridade dos Times.
+
+![Mockup](Mockup.png)
    
 ## Conecte-se Comigo
 
